@@ -3,15 +3,15 @@ console.log('Js OK');
 
 // Section Name 
 const firstName = prompt('Inserisci il tuo nome');
-console.log('firstName');
+console.log(firstName);
 
 // Section Surname 
 const surName = prompt('Inserisci il tuo cognome');
-console.log('SurName');
+console.log(surName);
 
 // Section Color 
 const colorPrefer = prompt('Inserisci il tuo colore preferito');
-console.log('colorPrefer');
+console.log(colorPrefer);
 
 // Stringa su Console 
 console.log('Questa è la tua password:' + firstName + surName + colorPrefer + '21');
